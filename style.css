@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(67, 61, 109);
+}
+p1 {
+    font-size: medium; color: rgb(225, 146, 245) ;
+    
+}
+header {
+    font-size: xx-large; color: rgb(225, 146, 245); text-align: center;
+}
+a {
+    font-size: medium; color: rgb(225, 146, 245);
+}
